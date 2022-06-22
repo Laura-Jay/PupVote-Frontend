@@ -1,6 +1,15 @@
 PupVote
 
-Includes Jest testing. Use yarn test to run script. 
+A fullstack PERN project that allows users to rank dog breeds by voting for their favourite dogs. 
+
+Includes Jest testing. 
+Use yarn test to run script. 
+
+Figma: https://www.figma.com/file/uSoBerdzJSpNKQlJnhAaxl/Dog-breeds?node-id=0%3A1
+
+Deployed Site: https://emmalaja-pupvote.netlify.app/
+
+Back-end repo: https://github.com/Laura-Jay/PupVote-BackEnd
 
 Uses DogAPI. https://dog.ceo/dog-api/
 
