@@ -7,7 +7,7 @@ Use yarn test to run script.
 
 Figma: https://www.figma.com/file/uSoBerdzJSpNKQlJnhAaxl/Dog-breeds?node-id=0%3A1
 
-Deployed Site: https://emmalaja-pupvote.netlify.app/
+Deployed Site: https://pupvote.netlify.app/
 
 Back-end repo: https://github.com/Laura-Jay/PupVote-BackEnd
 
@@ -15,7 +15,7 @@ Uses DogAPI. https://dog.ceo/dog-api/
 
 Click the hearts to vote for your favourite dog and watch as they climb the rankings. 
 
-Developed as part of a short team project as part of the academy curriculum. 
+Developed as part of a 4 person one week team project as part of the academy curriculum. 
 
 
 # Simplified CRA starter
